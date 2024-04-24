@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Suiphobie
-- 👀 I’m a french student in Data Marketing
-- 🌱 I’m currently learning Python
-- 🎸 Current project : basic crud app in Django
+- 📝 Product Manager at Fondation CGenial
+- 🎸 Current project : Map app with back on Django-Ninja - Svelte Front
 
 <!---
 Suiphobie/Suiphobie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
