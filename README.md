@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suiphobie
+- 👋 Hi
 - 📝 Product Manager at Fondation CGenial
 <!---
 Suiphobie/Suiphobie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
